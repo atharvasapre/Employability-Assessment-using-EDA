@@ -1,0 +1,2 @@
+# Employability-Assessment-using-EDA
+A dataset of candidates who gave an online test for a job was used where the test consisted of several questions divided in 5 different sections. This dataset had a total score as well as section wise scores of each student. Various operations were performed on the dataset including filtering data, sorting data according to needs, getting desired records, adding/deleting records of the employees of a company, and obtaining statistical outputs using data visualization techniques.
